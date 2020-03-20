@@ -1,0 +1,9 @@
+c:\users\nurul\onedrive\belgeler\visual studio 2013\Projects\games\games\bin\Debug\games.exe.config
+c:\users\nurul\onedrive\belgeler\visual studio 2013\Projects\games\games\bin\Debug\games.exe
+c:\users\nurul\onedrive\belgeler\visual studio 2013\Projects\games\games\bin\Debug\games.pdb
+c:\users\nurul\onedrive\belgeler\visual studio 2013\Projects\games\games\obj\Debug\games.csprojResolveAssemblyReference.cache
+c:\users\nurul\onedrive\belgeler\visual studio 2013\Projects\games\games\obj\Debug\games.Form1.resources
+c:\users\nurul\onedrive\belgeler\visual studio 2013\Projects\games\games\obj\Debug\games.Properties.Resources.resources
+c:\users\nurul\onedrive\belgeler\visual studio 2013\Projects\games\games\obj\Debug\games.csproj.GenerateResource.Cache
+c:\users\nurul\onedrive\belgeler\visual studio 2013\Projects\games\games\obj\Debug\games.exe
+c:\users\nurul\onedrive\belgeler\visual studio 2013\Projects\games\games\obj\Debug\games.pdb
